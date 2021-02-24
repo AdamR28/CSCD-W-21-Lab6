@@ -1,0 +1,86 @@
+ clang-7 -pthread -lm -o main lab6.c main.c
+ ./main
+User Input (Positive number) : 38
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]: 1
+User Input (Positive number) : 20
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]: 2
+
+[OUTPUT]
+Zero Count : 1 | Odd Numbers Count : 0 | Even Numbers Count : 1
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]: 3
+
+[OUTPUT]
+Prime numbers between 2 and the 20 (inclusive) : [ 2  3  5  7  11  13  17  19 ]
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]: 4
+
+[OUTPUT]
+Number (20) in reverse order : 2
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]: 1
+User Input (Positive number) : 5
+
+-----------------------------------------------------------------------------
+MENU 
+-----------------------------------------------------------------------------
+The menu choices are 
+  1. Enter a new number
+  2. Print the number of odd digits, even digits and zeros in the integer 
+  3. Print the prime numbers between 2 and the integer (inclusive) 
+  4. Print the number in reverse order 
+  5. Quit the program 
+-----------------------------------------------------------------------------
+User Choice [1-5]:   
